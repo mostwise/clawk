@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Clock App",
-  description: "A quick clock app",
+  title: "clawk",
+  description: "a quick and simple clock app",
 };
 
 export default function RootLayout({
